@@ -185,6 +185,14 @@ cat dns-Jhaddix.txt | head -n -14 > clean-jhaddix-dns.txt
 cd ~/tools/
 echo "done"
 
+echo "Installaing Doimained"
+git clone "https://github.com/zaidozaid/domained.git"
+echo "done"
+
+echo "Installaing XSStrike"
+git clone "https://github.com/zaidozaid/XSStrike.git"
+echo "done"
+
 
 
 echo -e "\n\n\n\n\n\n\n\n\n\n\nDone! All tools are set up in ~/tools"
