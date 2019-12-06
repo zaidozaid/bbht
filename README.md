@@ -27,7 +27,7 @@ https://github.com/nahamsec/recon_profile
 
 
 # Installing
-- git clone https://github.com/nahamsec/bbht.git
+- git clone https://github.com/zaidozaid/bbht.git
 - cd bbht
 - chmod +x install.sh
 - ./install.sh
